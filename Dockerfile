@@ -1,3 +1,3 @@
 FROM hshar/webapp 
-ADD website/* /var/www/html/
+ADD . /var/www/html/
 
