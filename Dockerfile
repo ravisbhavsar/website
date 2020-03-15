@@ -1,3 +1,4 @@
 FROM hshar/webapp 
-ADD /home/ubuntu/website/ /var/www/html/
+ADD images /var/www/html/
+ADD index.html /var/www/html/
 
