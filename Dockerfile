@@ -1,3 +1,3 @@
 FROM hshar/webapp 
-ADD . /var/www/html/
+ADD /home/ubuntu/website/ /var/www/html/
 
